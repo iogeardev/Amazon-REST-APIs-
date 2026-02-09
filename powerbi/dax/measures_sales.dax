@@ -1,0 +1,4 @@
+// Sales measures (starter)
+Total Sales := SUM ( fact_order_items[item_price] * fact_order_items[qty] )
+Total Units := SUM ( fact_order_items[qty] )
+Orders Count := DISTINCTCOUNT ( fact_orders[order_id] )

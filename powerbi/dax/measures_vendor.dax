@@ -1,0 +1,2 @@
+// Vendor measures (starter)
+PO Count := DISTINCTCOUNT ( fact_purchase_orders[po_number] )

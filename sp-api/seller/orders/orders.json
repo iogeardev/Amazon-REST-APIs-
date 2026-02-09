@@ -1,0 +1,10 @@
+{
+  "_stub": true,
+  "name": "orders",
+  "example": {
+    "AmazonOrderId": "902-0000000-0000000",
+    "PurchaseDate": "2026-02-01T12:34:56Z",
+    "OrderStatus": "Shipped",
+    "MarketplaceId": "ATVPDKIKX0DER"
+  }
+}

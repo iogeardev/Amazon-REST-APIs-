@@ -1,0 +1,9 @@
+{
+  "_stub": true,
+  "name": "invoices",
+  "example": {
+    "invoiceNumber": "INV123",
+    "purchaseOrderNumber": "PO123456",
+    "invoiceDate": "2026-02-03"
+  }
+}

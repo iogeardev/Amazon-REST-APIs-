@@ -1,0 +1,13 @@
+{
+  "_stub": true,
+  "name": "financial-events",
+  "example": {
+    "PostedDate": "2026-02-01",
+    "EventType": "ShipmentEvent",
+    "AmazonOrderId": "902-0000000-0000000",
+    "FeeAmount": {
+      "CurrencyCode": "USD",
+      "Amount": "-3.21"
+    }
+  }
+}

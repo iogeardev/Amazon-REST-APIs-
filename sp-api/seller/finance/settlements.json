@@ -1,0 +1,13 @@
+{
+  "_stub": true,
+  "name": "settlements",
+  "example": {
+    "SettlementId": "1234567890",
+    "StartDate": "2026-01-15",
+    "EndDate": "2026-01-31",
+    "TotalAmount": {
+      "CurrencyCode": "USD",
+      "Amount": "1234.56"
+    }
+  }
+}

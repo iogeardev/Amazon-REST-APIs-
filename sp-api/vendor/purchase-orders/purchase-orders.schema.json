@@ -1,0 +1,16 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "fact_purchase_orders (raw)",
+  "type": "object",
+  "properties": {
+    "purchaseOrderNumber": {
+      "type": "string"
+    },
+    "purchaseOrderDate": {
+      "type": "string"
+    }
+  },
+  "required": [
+    "purchaseOrderNumber"
+  ]
+}
