@@ -1,9 +1,0 @@
-{
-  "_stub": true,
-  "name": "inventory-summaries",
-  "example": {
-    "ASIN": "B000000000",
-    "FnSku": "X000000000",
-    "TotalQuantity": 55
-  }
-}

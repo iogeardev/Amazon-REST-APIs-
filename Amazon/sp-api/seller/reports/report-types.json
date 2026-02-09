@@ -1,8 +1,0 @@
-{
-  "_stub": true,
-  "name": "report-types",
-  "example": {
-    "reportType": "GET_FLAT_FILE_ALL_ORDERS_DATA_BY_LAST_UPDATE_GENERAL",
-    "description": "Orders by last update"
-  }
-}

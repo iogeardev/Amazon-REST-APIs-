@@ -1,3 +1,0 @@
-// Inventory measures (starter)
-Fulfillable Qty := SUM ( fact_inventory[fulfillable_qty] )
-Reserved Qty := SUM ( fact_inventory[reserved_qty] )
