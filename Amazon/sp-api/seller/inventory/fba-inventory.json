@@ -1,0 +1,10 @@
+{
+  "_stub": true,
+  "name": "fba-inventory",
+  "example": {
+    "SellerSKU": "SKU-EXAMPLE",
+    "FulfillableQuantity": 42,
+    "InboundWorkingQuantity": 10,
+    "ReservedQuantity": 3
+  }
+}

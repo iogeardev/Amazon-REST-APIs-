@@ -1,0 +1,25 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "fact_orders (raw)",
+  "type": "object",
+  "properties": {
+    "AmazonOrderId": {
+      "type": "string"
+    },
+    "PurchaseDate": {
+      "type": "string"
+    },
+    "OrderStatus": {
+      "type": "string"
+    },
+    "MarketplaceId": {
+      "type": "string"
+    }
+  },
+  "required": [
+    "AmazonOrderId",
+    "PurchaseDate",
+    "OrderStatus",
+    "MarketplaceId"
+  ]
+}

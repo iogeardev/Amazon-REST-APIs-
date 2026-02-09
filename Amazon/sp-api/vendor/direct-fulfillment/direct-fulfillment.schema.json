@@ -1,0 +1,16 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "direct_fulfillment (raw)",
+  "type": "object",
+  "properties": {
+    "purchaseOrderNumber": {
+      "type": "string"
+    },
+    "orderDate": {
+      "type": "string"
+    }
+  },
+  "required": [
+    "purchaseOrderNumber"
+  ]
+}

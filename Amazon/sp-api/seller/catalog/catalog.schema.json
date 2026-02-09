@@ -1,0 +1,22 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "dim_asin (raw)",
+  "type": "object",
+  "properties": {
+    "ASIN": {
+      "type": "string"
+    },
+    "Title": {
+      "type": "string"
+    },
+    "Brand": {
+      "type": "string"
+    },
+    "ProductType": {
+      "type": "string"
+    }
+  },
+  "required": [
+    "ASIN"
+  ]
+}

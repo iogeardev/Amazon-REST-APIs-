@@ -1,0 +1,3 @@
+// Time intelligence (starter)
+Sales MTD :=
+TOTALMTD ( [Total Sales], dim_date[date] )

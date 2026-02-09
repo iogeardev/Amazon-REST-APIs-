@@ -1,0 +1,12 @@
+{
+  "_stub": true,
+  "name": "invoice-items",
+  "example": {
+    "invoiceNumber": "INV123",
+    "itemSequenceNumber": "1",
+    "itemNetAmount": {
+      "currencyCode": "USD",
+      "amount": "240.00"
+    }
+  }
+}

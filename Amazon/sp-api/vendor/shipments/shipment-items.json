@@ -1,0 +1,12 @@
+{
+  "_stub": true,
+  "name": "shipment-items",
+  "example": {
+    "shipmentId": "SHIP123",
+    "itemSequenceNumber": "1",
+    "shippedQuantity": {
+      "amount": 24,
+      "unitOfMeasure": "Each"
+    }
+  }
+}

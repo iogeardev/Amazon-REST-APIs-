@@ -1,0 +1,20 @@
+{
+  "table": "dim_sku",
+  "columns": [
+    {
+      "name": "sku",
+      "type": "text"
+    },
+    {
+      "name": "product_name",
+      "type": "text"
+    },
+    {
+      "name": "brand",
+      "type": "text"
+    }
+  ],
+  "keys": [
+    "sku"
+  ]
+}

@@ -1,0 +1,9 @@
+{
+  "_stub": true,
+  "name": "df-acknowledgements",
+  "example": {
+    "purchaseOrderNumber": "DFPO123",
+    "acknowledgementDate": "2026-02-01",
+    "acknowledgementStatus": "Accepted"
+  }
+}

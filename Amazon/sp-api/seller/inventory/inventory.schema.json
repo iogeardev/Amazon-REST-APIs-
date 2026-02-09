@@ -1,0 +1,25 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "fact_inventory (raw)",
+  "type": "object",
+  "properties": {
+    "SellerSKU": {
+      "type": "string"
+    },
+    "ASIN": {
+      "type": "string"
+    },
+    "FulfillableQuantity": {
+      "type": "integer"
+    },
+    "ReservedQuantity": {
+      "type": "integer"
+    },
+    "InboundWorkingQuantity": {
+      "type": "integer"
+    },
+    "SnapshotDate": {
+      "type": "string"
+    }
+  }
+}

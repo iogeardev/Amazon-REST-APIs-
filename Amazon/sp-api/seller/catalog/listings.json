@@ -1,0 +1,12 @@
+{
+  "_stub": true,
+  "name": "listings",
+  "example": {
+    "SellerSKU": "SKU-EXAMPLE",
+    "ASIN": "B000000000",
+    "ConditionType": "new_new",
+    "Status": [
+      "BUYABLE"
+    ]
+  }
+}

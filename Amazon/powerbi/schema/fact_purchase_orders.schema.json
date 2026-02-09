@@ -1,0 +1,20 @@
+{
+  "table": "fact_purchase_orders",
+  "columns": [
+    {
+      "name": "po_number",
+      "type": "text"
+    },
+    {
+      "name": "po_date",
+      "type": "date"
+    },
+    {
+      "name": "status",
+      "type": "text"
+    }
+  ],
+  "keys": [
+    "po_number"
+  ]
+}

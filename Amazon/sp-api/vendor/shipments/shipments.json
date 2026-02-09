@@ -1,0 +1,9 @@
+{
+  "_stub": true,
+  "name": "shipments",
+  "example": {
+    "shipmentId": "SHIP123",
+    "purchaseOrderNumber": "PO123456",
+    "shipmentDate": "2026-02-02"
+  }
+}

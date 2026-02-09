@@ -1,0 +1,12 @@
+{
+  "_stub": true,
+  "name": "df-shipments",
+  "example": {
+    "purchaseOrderNumber": "DFPO123",
+    "shipmentDate": "2026-02-02",
+    "carrier": {
+      "name": "UPS"
+    },
+    "trackingNumber": "1Z999"
+  }
+}
